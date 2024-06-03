@@ -161,3 +161,4 @@ Závislosti
 [`choco`](https://chocolatey.org/)` install git make vscode mingw`
 
 # MAX7219
+# PWM2
